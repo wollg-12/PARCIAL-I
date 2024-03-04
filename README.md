@@ -1,5 +1,6 @@
 # PARCIAL-I
 CLASE                 OBJETO                  ATRIBUTOS                            METODOS 
+                     
                       CABRA    Peso, Color, Tamaño, Edad, Raza            Producir (), Brincar ()
 
 
